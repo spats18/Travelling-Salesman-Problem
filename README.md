@@ -13,4 +13,4 @@ We have programmed different interfaces depending on the requirement, instead of
 We have implemented interfaces for all the classes. We are using the references of interfaces to call the object of classes that implements the given interface. For instance, the reference of ShortestPathInterface is calling all the methods of the class GetShortestPath. Similarly, for all the classes, we have inverted the dependency on interfaces.
 
 ## Class Diagram
-![] (TSP_Class%20Diagram.png)
+![](TSP_Class%20Diagram.png)
