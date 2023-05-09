@@ -1,4 +1,5 @@
 # Travelling-Salesman-Problem
+For the classic computer science problem known as the Travelling Salesman Problem (TSP), We have implemented a solution using the Java programming language. The TSP is an optimization problem where the goal is to find the shortest possible route that visits every point exactly once and returns to the starting point. The solution is based on the principles of SOLID design and the software engineering principles of Wirth and Parnas, ensuring the code is modular, maintainable, and scalable. 
 ## SOLID principles and Wirth and Parnas:
 We have carefully incorporated the SOLID principles to ensure clean coding. While Implementing the concepts of Object-oriented programming, we have made sure to keep our code readable and well-documented. We have specified the access as private for the information that is not required for the user to know.
 #### Single Responsibility Principle:
